@@ -33,7 +33,7 @@ The refactoring of code resulted in a time difference in the execution of the co
 
 #### Original 
 
-![OG17](https://github.com/msha789/Stock_Analysis/blob/694e89831bf17f60a04bb8d85fc16154f31f6bda/VBA%202017%20OG.png
+![OG17](https://github.com/msha789/Stock_Analysis/blob/694e89831bf17f60a04bb8d85fc16154f31f6bda/VBA%202017%20OG.png)
 
 ![OG18](https://github.com/msha789/Stock_Analysis/blob/694e89831bf17f60a04bb8d85fc16154f31f6bda/VBA%202018%20OG.png)
 
